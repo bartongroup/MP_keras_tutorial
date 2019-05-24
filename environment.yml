@@ -1,8 +1,8 @@
 name: keras_tutorial
 channels:
-  - defaults
   - conda-forge
   - bioconda
+  - defaults
 dependencies:
   - absl-py=0.7.1=py36_0
   - astor=0.7.1=py_0
