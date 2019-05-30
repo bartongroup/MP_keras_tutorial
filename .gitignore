@@ -1,4 +1,7 @@
-data/*
+*.h5
+*.bed
+*.fa
+*.fai
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
